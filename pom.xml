@@ -73,7 +73,7 @@
 				<version>2.2</version>
 				<configuration>
 					<url>http://localhost:8080/manager/text</url>
-					<server>Tomcat9</server>
+					<server>Tomcat10</server>
 					<path>/jenkinsbookapp</path>
 				</configuration>
 			</plugin>
